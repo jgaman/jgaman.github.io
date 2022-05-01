@@ -3,8 +3,6 @@
 
 You will find all my data Analytics and Data Viz projects
 
-## Pour commencer
-
 Just go to jgaman.github.io
 
 
